@@ -98,3 +98,5 @@ body {
   color: white;
   text-align: center;
 }
+input[type=submit]:hover {
+  background-color: purple;
